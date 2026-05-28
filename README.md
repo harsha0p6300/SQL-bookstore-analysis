@@ -110,6 +110,7 @@ GROUP BY b.genre;
 ```
 
 ---![image alt](https://github.com/harsha0p6300/SQL-bookstore-analysis/blob/main/Screenshot%20(94).png?raw=true)
+---![image alt](https://github.com/harsha0p6300/SQL-bookstore-analysis/blob/main/Screenshot%20(95).png?raw=true)
 
 # Key Insights
 
