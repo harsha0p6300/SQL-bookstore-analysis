@@ -54,7 +54,7 @@ Contains order transaction details.
 | Order_Date   | Date of order                 |
 | Total_Amount | Total amount paid             |
 
----
+---![image alt](https://github.com/harsha0p6300/SQL-bookstore-analysis/blob/main/Screenshot%20(91).png?raw=true)
 
 # SQL Concepts Used
 
