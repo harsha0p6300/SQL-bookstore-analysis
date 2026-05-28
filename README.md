@@ -39,7 +39,7 @@ Contains customer details.
 | City        | Customer city      |
 | Country     | Customer country   |
 
----
+---![image alt](https://github.com/harsha0p6300/SQL-bookstore-analysis/blob/main/Screenshot%20(90).png?raw=true)
 
 ## 3. Orders
 
