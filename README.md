@@ -72,7 +72,7 @@ This project covers the following SQL concepts:
 * Data Filtering
 * Business Data Analysis
 
----
+---![image alt](https://github.com/harsha0p6300/SQL-bookstore-analysis/blob/main/Screenshot%20(92).png?raw=true)
 
 # Business Problems Solved
 
