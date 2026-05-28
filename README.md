@@ -26,7 +26,7 @@ Contains information about books available in the bookstore.
 | Price          | Price of the book           |
 | Stock          | Available stock quantity    |
 
----
+---![image alt](https://github.com/harsha0p6300/SQL-bookstore-analysis/blob/main/Screenshot%20(89).png?raw=true)
 
 ## 2. Customers
 
