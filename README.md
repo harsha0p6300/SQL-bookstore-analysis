@@ -109,7 +109,7 @@ ON o.book_id = b.book_id
 GROUP BY b.genre;
 ```
 
----
+---![image alt](https://github.com/harsha0p6300/SQL-bookstore-analysis/blob/main/Screenshot%20(94).png?raw=true)
 
 # Key Insights
 
